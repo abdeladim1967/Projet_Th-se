@@ -1,3 +1,3 @@
 # Projet_Thèse
 Rapport d'analyse
-tableaux des métriques en annexes
+avec les tableaux des métriques en annexes
